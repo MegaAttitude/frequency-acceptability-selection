@@ -16,7 +16,7 @@ the notebook containing the analysis code using a container based on
 this image. Failure to do so could result in minor differences in
 statistics from the published paper or inability to run the code at
 all due to API changes. Issues that do not explicitly state that they
-pertain to the docker image we have supplied will be automatically
+pertain to the Docker image we have supplied will be automatically
 closed, and analogous inquiries will be ignored.
 
 If it is impossible for you to use Docker, you should at least set up
@@ -39,7 +39,7 @@ If you haven't already, download the code.
 git clone https://github.com/MegaAttitude/frequency-acceptability-selection.git
 ```
 
-To build the docker image, use:
+To build the Docker image, use:
 
 ```bash
 cd frequency-acceptability-selection
