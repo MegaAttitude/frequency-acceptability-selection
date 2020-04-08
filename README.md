@@ -8,6 +8,8 @@ the following paper:
 If you use any of the code found in this directory, please cite that
 paper as well as this repository.
 
+> White, A.S. 2020. MegaAttitude/frequency-acceptability-selection: Analysis Code for "Frequency, Acceptability, and Selection". Zenodo. http://doi.org/10.5281/zenodo.3744712
+
 ## Environment
 
 A [Docker](https://www.docker.com/) image specification is provided in
