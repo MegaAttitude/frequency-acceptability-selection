@@ -3,7 +3,7 @@
 This repository contains the code for replicating the analyses from
 the following paper:
 
-> White, A.S. and K. Rawlins. 2020. [Frequency, acceptability, and selection: A case study of clause-embedding](https://ling.auf.net/lingbuzz/004596/current.pdf). Accepted to _Glossa_.
+> White, A.S. and K. Rawlins. 2020. [Frequency, Acceptability, and Selection: A case study of clause-embedding](https://ling.auf.net/lingbuzz/004596/current.pdf). Accepted to _Glossa_.
 
 If you use any of the code found in this directory, please cite that
 paper as well as this repository.
