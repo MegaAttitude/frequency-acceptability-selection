@@ -22,4 +22,4 @@ RUN pip install timeout-decorator==0.4.0\
 		torch==1.0.1\
 		pytorch-pretrained-bert==0.6.2
 
-RUN R -e "install.packages(c('ggrepel'), repos='http://cran.us.r-project.org')"
+RUN R -e "install.packages(c('tidyverse', 'reshape2', 'lme4', 'ggrepel'), repos='http://cran.us.r-project.org')"
