@@ -21,6 +21,11 @@ all due to API changes. Issues that do not explicitly state that they
 pertain to the Docker image we have supplied will be automatically
 closed, and analogous inquiries will be ignored.
 
+It is important that you have allocated at least 8GB of RAM to Docker
+prior to building the image or running the notebook. Failure to
+allocate enough memory will result in often cryptic errors on build or
+run.
+
 If it is impossible for you to use Docker, you should at least set up
 a virtual environment using Anaconda or one of the many python
 facilities available. We have provided a `requirements.txt` file to
