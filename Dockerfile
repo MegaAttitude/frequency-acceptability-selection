@@ -8,8 +8,8 @@ LABEL maintainer.name="Aaron Steven White" \
       subproject.name="MegaAcceptability" \
       subproject.name="http://megaattitude.io/projects/mega-acceptability/" \
       image.website="https://github.com/MegaAttitude/frequency-acceptability-selection" \
-      image.version="1.0" \
-      image.modification_date="2020-04-07"
+      image.version="1.1" \
+      image.modification_date="2020-09-02"
 
 COPY --chown=1000:100 ./*.ipynb /home/jovyan/work/
 
